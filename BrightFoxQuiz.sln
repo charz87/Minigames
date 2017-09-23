@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightFoxQuiz", "Assembly-CSharp.csproj", "{CDDA5F36-9561-1FD1-F689-95B7466D4075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightFoxQuiz", "Assembly-CSharp-Editor.csproj", "{C408B709-8FE3-00DA-DF7C-5E8BEFD1B6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDA5F36-9561-1FD1-F689-95B7466D4075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDA5F36-9561-1FD1-F689-95B7466D4075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDA5F36-9561-1FD1-F689-95B7466D4075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDA5F36-9561-1FD1-F689-95B7466D4075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C408B709-8FE3-00DA-DF7C-5E8BEFD1B6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C408B709-8FE3-00DA-DF7C-5E8BEFD1B6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C408B709-8FE3-00DA-DF7C-5E8BEFD1B6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C408B709-8FE3-00DA-DF7C-5E8BEFD1B6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

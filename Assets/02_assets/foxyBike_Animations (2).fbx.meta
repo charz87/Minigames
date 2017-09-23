@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 331f9310d64af484a971a6408c06ddab
+timeCreated: 1492625076
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bikerigged:backWheel_poly
+    100002: bikerigged:bikeBody_poly
+    100004: bikerigged:BikeGeo_GRP
+    100006: bikerigged:DeformationSystem
+    100008: bikerigged:frontWheel_poly
+    100010: bikerigged:Group
+    100012: bikerigged:joint2_M
+    100014: bikerigged:joint3_M
+    100016: bikerigged:joint4_M
+    100018: bikerigged:joint5_M
+    100020: bikerigged:Main
+    100022: bikerigged:polySurface3
+    100024: bikerigged:Root_M
+    100026: //RootNode
+    100028: Foxyrigged:Ankle_L
+    100030: Foxyrigged:Ankle_R
+    100032: Foxyrigged:Chest_M
+    100034: Foxyrigged:DeformationSystem
+    100036: Foxyrigged:EarL
+    100038: Foxyrigged:EarR
+    100040: Foxyrigged:Elbow_L
+    100042: Foxyrigged:Elbow_R
+    100044: Foxyrigged:Group
+    100046: Foxyrigged:handR_L
+    100048: Foxyrigged:handR_R
+    100050: Foxyrigged:Head_M
+    100052: Foxyrigged:HeadEnd_M
+    100054: Foxyrigged:Hip_L
+    100056: Foxyrigged:Hip_R
+    100058: Foxyrigged:joint1_M
+    100060: Foxyrigged:joint2_M
+    100062: Foxyrigged:joint3_M
+    100064: Foxyrigged:joint4_M
+    100066: Foxyrigged:joint5_M
+    100068: Foxyrigged:joint7_L
+    100070: Foxyrigged:joint7_R
+    100072: Foxyrigged:Knee_L
+    100074: Foxyrigged:Knee_R
+    100076: Foxyrigged:Main
+    100078: Foxyrigged:model:geo
+    100080: Foxyrigged:model:polySurface1
+    100082: Foxyrigged:Neck_M
+    100084: Foxyrigged:Root_M
+    100086: Foxyrigged:Scapula_L
+    100088: Foxyrigged:Scapula_R
+    100090: Foxyrigged:Shoulder_L
+    100092: Foxyrigged:Shoulder_R
+    100094: Foxyrigged:Spine1_M
+    100096: Foxyrigged:Toes_L
+    100098: Foxyrigged:Toes_R
+    100100: Foxyrigged:ToesEnd_L
+    100102: Foxyrigged:ToesEnd_R
+    100104: Foxyrigged:Wrist_L
+    100106: Foxyrigged:Wrist_R
+    400000: bikerigged:backWheel_poly
+    400002: bikerigged:bikeBody_poly
+    400004: bikerigged:BikeGeo_GRP
+    400006: bikerigged:DeformationSystem
+    400008: bikerigged:frontWheel_poly
+    400010: bikerigged:Group
+    400012: bikerigged:joint2_M
+    400014: bikerigged:joint3_M
+    400016: bikerigged:joint4_M
+    400018: bikerigged:joint5_M
+    400020: bikerigged:Main
+    400022: bikerigged:polySurface3
+    400024: bikerigged:Root_M
+    400026: //RootNode
+    400028: Foxyrigged:Ankle_L
+    400030: Foxyrigged:Ankle_R
+    400032: Foxyrigged:Chest_M
+    400034: Foxyrigged:DeformationSystem
+    400036: Foxyrigged:EarL
+    400038: Foxyrigged:EarR
+    400040: Foxyrigged:Elbow_L
+    400042: Foxyrigged:Elbow_R
+    400044: Foxyrigged:Group
+    400046: Foxyrigged:handR_L
+    400048: Foxyrigged:handR_R
+    400050: Foxyrigged:Head_M
+    400052: Foxyrigged:HeadEnd_M
+    400054: Foxyrigged:Hip_L
+    400056: Foxyrigged:Hip_R
+    400058: Foxyrigged:joint1_M
+    400060: Foxyrigged:joint2_M
+    400062: Foxyrigged:joint3_M
+    400064: Foxyrigged:joint4_M
+    400066: Foxyrigged:joint5_M
+    400068: Foxyrigged:joint7_L
+    400070: Foxyrigged:joint7_R
+    400072: Foxyrigged:Knee_L
+    400074: Foxyrigged:Knee_R
+    400076: Foxyrigged:Main
+    400078: Foxyrigged:model:geo
+    400080: Foxyrigged:model:polySurface1
+    400082: Foxyrigged:Neck_M
+    400084: Foxyrigged:Root_M
+    400086: Foxyrigged:Scapula_L
+    400088: Foxyrigged:Scapula_R
+    400090: Foxyrigged:Shoulder_L
+    400092: Foxyrigged:Shoulder_R
+    400094: Foxyrigged:Spine1_M
+    400096: Foxyrigged:Toes_L
+    400098: Foxyrigged:Toes_R
+    400100: Foxyrigged:ToesEnd_L
+    400102: Foxyrigged:ToesEnd_R
+    400104: Foxyrigged:Wrist_L
+    400106: Foxyrigged:Wrist_R
+    4300000: Foxyrigged:model:polySurface1
+    4300002: bikerigged:polySurface3
+    4300004: bikerigged:backWheel_poly
+    4300006: bikerigged:frontWheel_poly
+    4300008: bikerigged:bikeBody_poly
+    7400000: Hit
+    9500000: //RootNode
+    13700000: bikerigged:backWheel_poly
+    13700002: bikerigged:bikeBody_poly
+    13700004: bikerigged:frontWheel_poly
+    13700006: bikerigged:polySurface3
+    13700008: Foxyrigged:model:polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 112
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bikerigged:BikeGeo_GRP
+        weight: 1
+      - path: bikerigged:BikeGeo_GRP/bikerigged:backWheel_poly
+        weight: 1
+      - path: bikerigged:BikeGeo_GRP/bikerigged:bikeBody_poly
+        weight: 1
+      - path: bikerigged:BikeGeo_GRP/bikerigged:frontWheel_poly
+        weight: 1
+      - path: bikerigged:BikeGeo_GRP/bikerigged:polySurface3
+        weight: 1
+      - path: bikerigged:Group
+        weight: 1
+      - path: bikerigged:Group/bikerigged:Main
+        weight: 1
+      - path: bikerigged:Group/bikerigged:Main/bikerigged:DeformationSystem
+        weight: 1
+      - path: bikerigged:Group/bikerigged:Main/bikerigged:DeformationSystem/bikerigged:Root_M
+        weight: 1
+      - path: bikerigged:Group/bikerigged:Main/bikerigged:DeformationSystem/bikerigged:Root_M/bikerigged:joint2_M
+        weight: 1
+      - path: bikerigged:Group/bikerigged:Main/bikerigged:DeformationSystem/bikerigged:Root_M/bikerigged:joint2_M/bikerigged:joint3_M
+        weight: 1
+      - path: bikerigged:Group/bikerigged:Main/bikerigged:DeformationSystem/bikerigged:Root_M/bikerigged:joint2_M/bikerigged:joint5_M
+        weight: 1
+      - path: bikerigged:Group/bikerigged:Main/bikerigged:DeformationSystem/bikerigged:Root_M/bikerigged:joint4_M
+        weight: 1
+      - path: Foxyrigged:Group
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_L/Foxyrigged:Knee_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_L/Foxyrigged:Knee_L/Foxyrigged:Ankle_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_L/Foxyrigged:Knee_L/Foxyrigged:Ankle_L/Foxyrigged:Toes_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_L/Foxyrigged:Knee_L/Foxyrigged:Ankle_L/Foxyrigged:Toes_L/Foxyrigged:ToesEnd_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_R/Foxyrigged:Knee_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_R/Foxyrigged:Knee_R/Foxyrigged:Ankle_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_R/Foxyrigged:Knee_R/Foxyrigged:Ankle_R/Foxyrigged:Toes_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Hip_R/Foxyrigged:Knee_R/Foxyrigged:Ankle_R/Foxyrigged:Toes_R/Foxyrigged:ToesEnd_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:joint1_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:joint1_M/Foxyrigged:joint2_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:joint1_M/Foxyrigged:joint2_M/Foxyrigged:joint3_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:joint1_M/Foxyrigged:joint2_M/Foxyrigged:joint3_M/Foxyrigged:joint4_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:joint1_M/Foxyrigged:joint2_M/Foxyrigged:joint3_M/Foxyrigged:joint4_M/Foxyrigged:joint5_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Neck_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Neck_M/Foxyrigged:Head_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Neck_M/Foxyrigged:Head_M/Foxyrigged:EarL
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Neck_M/Foxyrigged:Head_M/Foxyrigged:EarL/Foxyrigged:joint7_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Neck_M/Foxyrigged:Head_M/Foxyrigged:EarR
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Neck_M/Foxyrigged:Head_M/Foxyrigged:EarR/Foxyrigged:joint7_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Neck_M/Foxyrigged:Head_M/Foxyrigged:HeadEnd_M
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_L/Foxyrigged:Shoulder_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_L/Foxyrigged:Shoulder_L/Foxyrigged:Elbow_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_L/Foxyrigged:Shoulder_L/Foxyrigged:Elbow_L/Foxyrigged:Wrist_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_L/Foxyrigged:Shoulder_L/Foxyrigged:Elbow_L/Foxyrigged:Wrist_L/Foxyrigged:handR_L
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_R/Foxyrigged:Shoulder_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_R/Foxyrigged:Shoulder_R/Foxyrigged:Elbow_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_R/Foxyrigged:Shoulder_R/Foxyrigged:Elbow_R/Foxyrigged:Wrist_R
+        weight: 1
+      - path: Foxyrigged:Group/Foxyrigged:Main/Foxyrigged:DeformationSystem/Foxyrigged:Root_M/Foxyrigged:Spine1_M/Foxyrigged:Chest_M/Foxyrigged:Scapula_R/Foxyrigged:Shoulder_R/Foxyrigged:Elbow_R/Foxyrigged:Wrist_R/Foxyrigged:handR_R
+        weight: 1
+      - path: Foxyrigged:model:geo
+        weight: 1
+      - path: Foxyrigged:model:geo/Foxyrigged:model:polySurface1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
